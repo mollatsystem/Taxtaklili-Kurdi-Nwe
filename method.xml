@@ -1,0 +1,5 @@
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <subtype android:label="کوردی" android:imeSubtypeLocale="ckb_IQ" android:imeSubtypeMode="keyboard" />
+    <subtype android:label="English" android:imeSubtypeLocale="en_US" android:imeSubtypeMode="keyboard" />
+    <subtype android:label="العربية" android:imeSubtypeLocale="ar" android:imeSubtypeMode="keyboard" />
+</input-method>
